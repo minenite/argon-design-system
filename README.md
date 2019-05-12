@@ -89,7 +89,7 @@
 
 <h2 id="documentation">Documentation</h2>
 
-<p>The documentation for the Argon Design System is hosted at our <a href="https://demos.creative-tim.com/argon-design-system/docs/getting-started/overview.html">website</a>.</p>
+<p>Documentation for the Argon Design System is hosted at our <a href="https://demos.creative-tim.com/argon-design-system/docs/getting-started/overview.html">website</a>.</p>
 
 <h2 id="file-structure">File Structure</h2>
 
